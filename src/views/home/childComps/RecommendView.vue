@@ -32,7 +32,7 @@
     text-align: center;
     font-size: 12px;
 
-    padding: 15px 0 20px;
+    padding: 15px 0 15px;
     border-bottom: 8px solid #eee;
   }
 
